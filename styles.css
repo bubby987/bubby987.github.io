@@ -3,5 +3,14 @@ img {
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Times New Roman";
+}
+table {
+    width:400px;
+}
+#red{
+    color:#FF0000;
+}
+#big{
+    font-size: 64
 }
